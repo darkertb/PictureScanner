@@ -1,0 +1,9 @@
+c:\users\chiade-lin\documents\visual studio 2013\Projects\PictureCompare\PictureCompare\bin\Debug\PictureCompare.exe.config
+c:\users\chiade-lin\documents\visual studio 2013\Projects\PictureCompare\PictureCompare\bin\Debug\PictureCompare.exe
+c:\users\chiade-lin\documents\visual studio 2013\Projects\PictureCompare\PictureCompare\bin\Debug\PictureCompare.pdb
+c:\users\chiade-lin\documents\visual studio 2013\Projects\PictureCompare\PictureCompare\obj\Debug\PictureCompare.csprojResolveAssemblyReference.cache
+c:\users\chiade-lin\documents\visual studio 2013\Projects\PictureCompare\PictureCompare\obj\Debug\PictureCompare.Form1.resources
+c:\users\chiade-lin\documents\visual studio 2013\Projects\PictureCompare\PictureCompare\obj\Debug\PictureCompare.Properties.Resources.resources
+c:\users\chiade-lin\documents\visual studio 2013\Projects\PictureCompare\PictureCompare\obj\Debug\PictureCompare.csproj.GenerateResource.Cache
+c:\users\chiade-lin\documents\visual studio 2013\Projects\PictureCompare\PictureCompare\obj\Debug\PictureCompare.exe
+c:\users\chiade-lin\documents\visual studio 2013\Projects\PictureCompare\PictureCompare\obj\Debug\PictureCompare.pdb
